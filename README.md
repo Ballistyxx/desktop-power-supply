@@ -5,7 +5,7 @@
 ## Overview
 This project is a **DIY Desktop Variable Power Supply** built using a **laptop power supply**, a **DC-DC buck converter**, and a **custom enclosure**. It provides a variable voltage output for electronics projects, making it an essential tool for any DIY electronics enthusiast.
 
-📜 **Read the full blog post here:** [How I Built a DIY Desktop Variable Power Supply](https://github.com/Ballistyxx/desktop-power-supply)
+📜 **Read the full blog post here:** [How I Built a DIY Desktop Variable Power Supply](https://eliferrara.com/2025/01/15/Desktop_Power_Supply.html)
 
 ## Features
 ✔ **Adjustable voltage output (1.25V - 20V)**  
